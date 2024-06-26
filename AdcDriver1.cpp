@@ -2,7 +2,7 @@
 #include <Arduino.h>
 #include <unity.h>
 
-#include "AdcDriver.h"
+#include "AdcDriver1.h"
 #include "port/HeltecV3Board.h"
 
 void setUp(void) {}
