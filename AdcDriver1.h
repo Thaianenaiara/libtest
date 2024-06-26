@@ -5,7 +5,7 @@
 
 void setUp(void);
 
-void loop(void);
+void tearDown(void);
 
 static void TestAdc(void);
 
